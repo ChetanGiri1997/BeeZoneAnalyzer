@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Top 10 Mandarin Zones</name>
+    <description>Best locations for mandarin farming based on ecological suitability analysis</description>
+    
+    <Style id="highZone">
+        <PolyStyle>
+            <color>7700ff00</color>
+            <outline>1</outline>
+        </PolyStyle>
+        <LineStyle>
+            <color>ff00ff00</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+
+    <Placemark>
+        <name>#1 - Score: 0.778</name>
+        <description>
+Rank: 1
+Mandarin Score: 0.778
+Max Score: 0.796
+Area: 0.3 hectares
+Center: 28.80007°N, 81.46834°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.4681562568068,28.79997473910869,0 81.46843403458458,28.80025251688647,0 81.46843403458458,28.79997473910869,0 81.4681562568068,28.79997473910869,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#2 - Score: 0.773</name>
+        <description>
+Rank: 2
+Mandarin Score: 0.773
+Max Score: 0.802
+Area: 2.6 hectares
+Center: 28.80231°N, 81.46515°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.46593403458458,28.80136362799758,0 81.46537847902901,28.80164140577536,0 81.46426736791791,28.802474739108693,0 81.46398959014013,28.80303029466425,0 81.46510070125125,28.80303029466425,0 81.46537847902901,28.80275251688647,0 81.46621181236235,28.80164140577536,0 81.46621181236235,28.80136362799758,0 81.46593403458458,28.80136362799758,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#3 - Score: 0.769</name>
+        <description>
+Rank: 3
+Mandarin Score: 0.769
+Max Score: 0.798
+Area: 0.4 hectares
+Center: 28.77386°N, 81.47073°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.47065625680679,28.773585850219803,0 81.47065625680679,28.77414140577536,0 81.47093403458457,28.77386362799758,0 81.47065625680679,28.773585850219803,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#4 - Score: 0.766</name>
+        <description>
+Rank: 4
+Mandarin Score: 0.766
+Max Score: 0.781
+Area: 0.3 hectares
+Center: 28.77812°N, 81.47779°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.47760070125123,28.778030294664248,0 81.47787847902902,28.778308072442027,0 81.47787847902902,28.778030294664248,0 81.47760070125123,28.778030294664248,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#5 - Score: 0.766</name>
+        <description>
+Rank: 5
+Mandarin Score: 0.766
+Max Score: 0.800
+Area: 0.9 hectares
+Center: 28.75789°N, 81.49924°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49898959014013,28.757474739108694,0 81.49871181236234,28.75775251688647,0 81.49871181236234,28.75803029466425,0 81.50010070125124,28.75803029466425,0 81.49898959014013,28.757474739108694,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#6 - Score: 0.764</name>
+        <description>
+Rank: 6
+Mandarin Score: 0.764
+Max Score: 0.767
+Area: 0.3 hectares
+Center: 28.80831°N, 81.48316°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.48287847902901,28.808308072442028,0 81.48343403458458,28.808308072442028,0 81.48343403458458,28.808308072442028,0 81.48287847902901,28.808308072442028,0 81.48287847902901,28.808308072442028,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#7 - Score: 0.763</name>
+        <description>
+Rank: 7
+Mandarin Score: 0.763
+Max Score: 0.790
+Area: 0.3 hectares
+Center: 28.77099°N, 81.50529°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.50537847902902,28.770808072442026,0 81.50510070125124,28.771085850219805,0 81.50537847902902,28.771085850219805,0 81.50537847902902,28.770808072442026,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#8 - Score: 0.761</name>
+        <description>
+Rank: 8
+Mandarin Score: 0.761
+Max Score: 0.806
+Area: 1.0 hectares
+Center: 28.80018°N, 81.46763°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.46760070125124,28.799696961330916,0 81.46732292347346,28.79997473910869,0 81.46704514569568,28.80025251688647,0 81.46760070125124,28.80053029466425,0 81.4681562568068,28.80053029466425,0 81.46787847902901,28.799696961330916,0 81.46760070125124,28.799696961330916,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#9 - Score: 0.761</name>
+        <description>
+Rank: 9
+Mandarin Score: 0.761
+Max Score: 0.801
+Area: 2.2 hectares
+Center: 28.78797°N, 81.49323°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49232292347347,28.78775251688647,0 81.4917673679179,28.78803029466425,0 81.4917673679179,28.788308072442025,0 81.49204514569568,28.788585850219803,0 81.49510070125125,28.78803029466425,0 81.49454514569568,28.78775251688647,0 81.49232292347347,28.78775251688647,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#10 - Score: 0.758</name>
+        <description>
+Rank: 10
+Mandarin Score: 0.758
+Max Score: 0.781
+Area: 0.9 hectares
+Center: 28.76809°N, 81.48643°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.48648959014012,28.76775251688647,0 81.48593403458457,28.768308072442025,0 81.48593403458457,28.768585850219804,0 81.48648959014012,28.768308072442025,0 81.4867673679179,28.76803029466425,0 81.48704514569569,28.76775251688647,0 81.48648959014012,28.76775251688647,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+</Document>
+</kml>

@@ -1,0 +1,13 @@
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore dataset and large data folders
+Datasets/
+temp_landsat/
+temp_check/
+
+
+# Ignore common editor/OS files
+.vscode/
+.DS_Store

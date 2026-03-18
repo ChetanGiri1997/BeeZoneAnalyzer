@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Top 10 Best Co-Location Zones</name>
+    <description>Optimal zones for combined Bee Farming + Mandarin Orange cultivation</description>
+    
+    <!-- Styles for different suitability levels -->
+    <Style id="excellent">
+      <LineStyle><color>ff00ff00</color><width>3</width></LineStyle>
+      <PolyStyle><color>8000ff00</color></PolyStyle>
+    </Style>
+    <Style id="high">
+      <LineStyle><color>ff00aaff</color><width>3</width></LineStyle>
+      <PolyStyle><color>8000aaff</color></PolyStyle>
+    </Style>
+    <Style id="moderate">
+      <LineStyle><color>ff00ffff</color><width>2</width></LineStyle>
+      <PolyStyle><color>6000ffff</color></PolyStyle>
+    </Style>
+
+    <Placemark>
+      <name>Zone 1: High Suitability (0.67)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #1 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.672 (max: 0.712)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.558 (max: 0.602)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.786 (max: 0.825)</td></tr>
+<tr><td><b>Area</b></td><td>~1.2 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.80559°N, 81.46781°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.467601,28.805253,0 81.467323,28.805530,0 81.467323,28.805808,0 81.467601,28.806086,0 81.468156,28.805808,0 81.468434,28.805530,0 81.468156,28.805253,0 81.467601,28.805253,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 2: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #2 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.661 (max: 0.736)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.573 (max: 0.677)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.750 (max: 0.818)</td></tr>
+<tr><td><b>Area</b></td><td>~23.5 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.81099°N, 81.48902°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.488434,28.808864,0 81.485934,28.809419,0 81.485378,28.809697,0 81.484267,28.812197,0 81.484267,28.812475,0 81.493712,28.812475,0 81.493990,28.812197,0 81.493990,28.811919,0 81.493434,28.810808,0 81.491767,28.809975,0 81.489823,28.809141,0 81.488990,28.808864,0 81.488434,28.808864,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 3: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #3 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.661 (max: 0.694)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.547 (max: 0.592)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.775 (max: 0.802)</td></tr>
+<tr><td><b>Area</b></td><td>~2.5 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.80243°N, 81.46499°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.466212,28.801364,0 81.465101,28.801919,0 81.464267,28.802475,0 81.463434,28.803308,0 81.463712,28.803308,0 81.465101,28.803030,0 81.466212,28.801641,0 81.466212,28.801364,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 4: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #4 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.660 (max: 0.710)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.577 (max: 0.639)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.744 (max: 0.791)</td></tr>
+<tr><td><b>Area</b></td><td>~4.8 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.80385°N, 81.47403°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.473434,28.802753,0 81.473156,28.803030,0 81.472878,28.803864,0 81.473156,28.805530,0 81.473990,28.804975,0 81.475101,28.804141,0 81.475656,28.803308,0 81.475656,28.803030,0 81.473434,28.802753,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 5: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #5 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.659 (max: 0.682)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.558 (max: 0.599)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.759 (max: 0.792)</td></tr>
+<tr><td><b>Area</b></td><td>~1.0 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.78063°N, 81.47639°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.476490,28.780253,0 81.475378,28.781086,0 81.475656,28.781086,0 81.476490,28.780808,0 81.477045,28.780530,0 81.477045,28.780253,0 81.476490,28.780253,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 6: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #6 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.656 (max: 0.667)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.546 (max: 0.553)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.766 (max: 0.781)</td></tr>
+<tr><td><b>Area</b></td><td>~0.3 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.77812°N, 81.47779°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.477601,28.778030,0 81.477878,28.778308,0 81.477878,28.778030,0 81.477601,28.778030,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 7: High Suitability (0.66)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #7 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.656 (max: 0.675)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.536 (max: 0.556)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.775 (max: 0.800)</td></tr>
+<tr><td><b>Area</b></td><td>~0.4 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.79102°N, 81.47927°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.478990,28.790808,0 81.479545,28.791364,0 81.479267,28.790808,0 81.478990,28.790808,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 8: High Suitability (0.65)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #8 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.653 (max: 0.686)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.547 (max: 0.601)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.758 (max: 0.783)</td></tr>
+<tr><td><b>Area</b></td><td>~2.3 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.81183°N, 81.46950°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.469267,28.811364,0 81.468712,28.811641,0 81.468434,28.811919,0 81.468434,28.812475,0 81.469267,28.812475,0 81.470934,28.811641,0 81.470934,28.811364,0 81.469267,28.811364,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 9: High Suitability (0.65)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #9 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.652 (max: 0.712)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.545 (max: 0.633)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.760 (max: 0.801)</td></tr>
+<tr><td><b>Area</b></td><td>~6.7 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.81173°N, 81.47493°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.474823,28.810530,0 81.473156,28.811364,0 81.472878,28.811641,0 81.472878,28.811919,0 81.473156,28.812197,0 81.473434,28.812475,0 81.476767,28.812475,0 81.477045,28.812197,0 81.476767,28.811641,0 81.475934,28.810530,0 81.474823,28.810530,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zone 10: High Suitability (0.65)</name>
+      <styleUrl>#high</styleUrl>
+      <description><![CDATA[
+<h3>🏆 Rank #10 Best Location</h3>
+<table border="1" cellpadding="5">
+<tr><td><b>Combined Score</b></td><td>0.652 (max: 0.677)</td></tr>
+<tr><td><b>🐝 Bee Suitability</b></td><td>0.561 (max: 0.580)</td></tr>
+<tr><td><b>🍊 Mandarin Suitability</b></td><td>0.742 (max: 0.781)</td></tr>
+<tr><td><b>Area</b></td><td>~1.1 hectares</td></tr>
+<tr><td><b>Center</b></td><td>28.76810°N, 81.48642°E</td></tr>
+</table>
+<p><b>Classification:</b> High</p>
+      ]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>81.486490,28.767753,0 81.485656,28.768308,0 81.485934,28.768586,0 81.487045,28.768030,0 81.487045,28.767753,0 81.486490,28.767753,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>

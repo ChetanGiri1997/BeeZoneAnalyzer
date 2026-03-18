@@ -1,0 +1,188 @@
+{
+  "total_clusters_found": 158,
+  "top_zones": 10,
+  "threshold_percentile": 85,
+  "threshold_score": 0.6122729499651798,
+  "zones": [
+    {
+      "rank": 1,
+      "center": {
+        "lat": 28.805594397228354,
+        "lon": 81.4678143764649
+      },
+      "area_hectares": 1.17,
+      "pixel_count": 13,
+      "scores": {
+        "combined_mean": 0.6717691984234654,
+        "combined_max": 0.712246970644498,
+        "bee_mean": 0.5577873938408797,
+        "bee_max": 0.602288146609377,
+        "mandarin_mean": 0.7857510030060516,
+        "mandarin_max": 0.8248439309776844
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 2,
+      "center": {
+        "lat": 28.81099219334454,
+        "lon": 81.4890183257723
+      },
+      "area_hectares": 23.49,
+      "pixel_count": 261,
+      "scores": {
+        "combined_mean": 0.6613813978379999,
+        "combined_max": 0.7359659541686487,
+        "bee_mean": 0.5731005695006297,
+        "bee_max": 0.6771951886821556,
+        "mandarin_mean": 0.74966222617537,
+        "mandarin_max": 0.8182281218638888
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 3,
+      "center": {
+        "lat": 28.802425135934094,
+        "lon": 81.46499157426713
+      },
+      "area_hectares": 2.52,
+      "pixel_count": 28,
+      "scores": {
+        "combined_mean": 0.6610923390803035,
+        "combined_max": 0.6941185469890112,
+        "bee_mean": 0.5470804442922343,
+        "bee_max": 0.5916037358186259,
+        "mandarin_mean": 0.7751042338683728,
+        "mandarin_max": 0.8020921980296395
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 4,
+      "center": {
+        "lat": 28.803847904727142,
+        "lon": 81.47402627777115
+      },
+      "area_hectares": 4.77,
+      "pixel_count": 53,
+      "scores": {
+        "combined_mean": 0.6601749137256555,
+        "combined_max": 0.7099778217425238,
+        "bee_mean": 0.5768400462190673,
+        "bee_max": 0.6392224854995185,
+        "mandarin_mean": 0.7435097812322438,
+        "mandarin_max": 0.7913196780505793
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 5,
+      "center": {
+        "lat": 28.780631304765265,
+        "lon": 81.47638858003911
+      },
+      "area_hectares": 0.99,
+      "pixel_count": 11,
+      "scores": {
+        "combined_mean": 0.6586140317878487,
+        "combined_max": 0.6818599634879934,
+        "bee_mean": 0.5579604297965362,
+        "bee_max": 0.5993727561468375,
+        "mandarin_mean": 0.7592676337791612,
+        "mandarin_max": 0.7917200248260631
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 6,
+      "center": {
+        "lat": 28.778122887256842,
+        "lon": 81.47778588643642
+      },
+      "area_hectares": 0.27,
+      "pixel_count": 3,
+      "scores": {
+        "combined_mean": 0.6560448018529335,
+        "combined_max": 0.667339982087905,
+        "bee_mean": 0.5460879957711505,
+        "bee_max": 0.5532115837142997,
+        "mandarin_mean": 0.7660016079347161,
+        "mandarin_max": 0.7814683804615103
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 7,
+      "center": {
+        "lat": 28.79101640577536,
+        "lon": 81.47926736791791
+      },
+      "area_hectares": 0.36,
+      "pixel_count": 4,
+      "scores": {
+        "combined_mean": 0.6557535402117225,
+        "combined_max": 0.6750981238987078,
+        "bee_mean": 0.5361808599308628,
+        "bee_max": 0.5561944710387229,
+        "mandarin_mean": 0.775326220492582,
+        "mandarin_max": 0.7998614094992328
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 8,
+      "center": {
+        "lat": 28.811833713467667,
+        "lon": 81.46950241065294
+      },
+      "area_hectares": 2.34,
+      "pixel_count": 26,
+      "scores": {
+        "combined_mean": 0.6526215411364648,
+        "combined_max": 0.6863706603559397,
+        "bee_mean": 0.5471499222695555,
+        "bee_max": 0.6010207276127545,
+        "mandarin_mean": 0.7580931600033742,
+        "mandarin_max": 0.783495490277569
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 9,
+      "center": {
+        "lat": 28.811727742111692,
+        "lon": 81.47493178233232
+      },
+      "area_hectares": 6.66,
+      "pixel_count": 74,
+      "scores": {
+        "combined_mean": 0.6522941230394455,
+        "combined_max": 0.7124974685970772,
+        "bee_mean": 0.5449870641911106,
+        "bee_max": 0.633324016975525,
+        "mandarin_mean": 0.75960118188778,
+        "mandarin_max": 0.8006048573408138
+      },
+      "classification": "High"
+    },
+    {
+      "rank": 10,
+      "center": {
+        "lat": 28.76809973910869,
+        "lon": 81.48642014569567
+      },
+      "area_hectares": 1.08,
+      "pixel_count": 12,
+      "scores": {
+        "combined_mean": 0.6519170540343808,
+        "combined_max": 0.6769188945025582,
+        "bee_mean": 0.5613983881987664,
+        "bee_max": 0.5796678346289286,
+        "mandarin_mean": 0.7424357198699955,
+        "mandarin_max": 0.7807373246760427
+      },
+      "classification": "High"
+    }
+  ]
+}

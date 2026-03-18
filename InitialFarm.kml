@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="KmlFile">
+	<gx:CascadingStyle kml:id="__managed_style_512BCBF69C3D91526DBC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4C96C2B30B3D91526DBC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_33DFD691AB3D91526DBC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4C96C2B30B3D91526DBC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_512BCBF69C3D91526DBC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A1AF678F63D88058416">
+		<name>Bee Farm</name>
+		<LookAt>
+			<longitude>81.48102700093244</longitude>
+			<latitude>28.77704504890112</latitude>
+			<altitude>1178.025687041251</altitude>
+			<heading>32.16999133374291</heading>
+			<tilt>37.53777918279008</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>920.5349791802291</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33DFD691AB3D91526DBC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.48037085710618,28.77769063004487,0 81.48023464012944,28.77732579205024,0 81.47996942151788,28.77704737607406,0 81.47945623879016,28.77657184722028,0 81.47958915222394,28.77616707292222,0 81.48060920630408,28.77578085577014,0 81.48097814855589,28.77540995834255,0 81.4813035690305,28.77545948957914,0 81.48159297175962,28.7754342586614,0 81.48204956089739,28.77613217565482,0 81.48237901060722,28.77678741480532,0 81.48137596002681,28.77716112447398,0 81.48088441208887,28.77742766181782,0 81.48037085710618,28.77769063004487,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
+<?earth data="Cs8FCswFCqQFChQwQTFBRjY3OEY2M0Q4ODA1ODQxNhKaBBJFChIZjIygbOzGPEAh3F95JcleVEARbCi0TRpokkAYASG9g6lGwhVAQCnJRsHy1cRCQDEAGSqjR8SMQEEAAAAAAIBBQFABGAEiCEJlZSBGYXJtKgAyADoECgASAEACSqIDEp8DGpwDCpMDCh0KEhnGcq67Fsc8QCE-Tmhlvl5UQCkAAAAAAAAAAAodChIZbjG30v7GPEAhyXASKrxeVEApAAAAAAAAAAAKHQoSGUKuq5PsxjxAIfUfqtG3XlRAKQAAAAAAAAAACh0KEhkvzp5pzcY8QCHiXThpr15UQCkAAAAAAAAAAAodChIZ126i4rLGPEAhXRSzlrFeVEApAAAAAAAAAAAKHQoSGUhl_JKZxjxAIeLOHU3CXlRAKQAAAAAAAAAACh0KEhnvElxEgcY8QCHYiJJYyF5UQCkAAAAAAAAAAAodChIZgh1bg4TGPEAhyBt8rc1eVEApAAAAAAAAAAAKHQoSGRImDdyCxjxAITrsU2vSXlRAKQAAAAAAAAAACh0KEhmQzyeZsMY8QCHAxmbm2V5UQCkAAAAAAAAAAAodChIZgYg-itvGPEAhbrU2TN9eVEApAAAAAAAAAAAKHQoSGZ5WDQj0xjxAIVRZHd3OXlRAKQAAAAAAAAAACh0KEhlog85_Bcc8QCH8xGnPxl5UQCkAAAAAAAAAABACGAAgAHIAggEOCgYIARICCAESBAgBEAGIAQEybwoiCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABINCggIrYDvBxD_ARCgHxoYCgcI____BxBAEggIrYDvBxD_ARigHyAAIgkIAhIFCP___wcqFQgBEggI____BxD_ARkAAAAAAADwPxIAGiExalRrODVwRVQ3azdjbmhmOGlWNUpRWEFycl9reFNlbnQ"?>

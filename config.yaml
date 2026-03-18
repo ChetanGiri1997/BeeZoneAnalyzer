@@ -1,0 +1,101 @@
+# Agricultural Suitability Analysis Configuration
+
+# Search Parameters
+search_radius_km: 4.0  # Aerial distance from InitialFarm location
+grid_resolution_m: 100  # Grid cell size for analysis (100m x 100m)
+
+# Input Files
+input:
+  kml_file: "InitialFarm.kml"
+  dem_file: "USGS/n28_e081_1arc_v3.tif"  # GeoTIFF converted from HGT
+  landsat_dir: "USGS"
+  sentinel_dir: "sentinal2"
+  avhrr_dir: "USGS"
+
+# Output Files
+output:
+  report_html: "analysis_report.html"
+  results_json: "results.json"
+  recommended_kml: "recommended_locations.kml"
+  bee_farming_kml: "bee_farming_suitable.kml"
+  mandarin_farming_kml: "mandarin_farming_suitable.kml"
+  maps_dir: "suitability_maps"
+
+# Bee Farming Suitability Criteria
+bee_farming:
+  elevation:
+    min: 500
+    max: 2500
+    optimal_min: 1000
+    optimal_max: 1800
+    weight: 0.20
+  
+  temperature:
+    min: 15
+    max: 35
+    optimal_min: 20
+    optimal_max: 28
+    weight: 0.25
+  
+  vegetation_ndvi:
+    min: 0.3
+    optimal_min: 0.5
+    weight: 0.25
+  
+  slope:
+    max: 15
+    optimal_max: 10
+    weight: 0.15
+  
+  water_proximity_km:
+    max: 2.0
+    optimal_max: 1.0
+    weight: 0.15
+
+# Mandarin Orange Farming Suitability Criteria
+mandarin_farming:
+  elevation:
+    min: 800
+    max: 2000
+    optimal_min: 1000
+    optimal_max: 1500
+    weight: 0.20
+  
+  temperature:
+    min: 13
+    max: 30
+    optimal_min: 20
+    optimal_max: 25
+    weight: 0.25
+  
+  slope:
+    min: 5
+    max: 20
+    optimal_min: 8
+    optimal_max: 15
+    weight: 0.20
+  
+  aspect:
+    preferred: ["S", "SE", "SW"]  # South-facing slopes
+    weight: 0.15
+  
+  soil_moisture:
+    min: 0.2
+    max: 0.7
+    optimal_min: 0.3
+    optimal_max: 0.6
+    weight: 0.20
+
+# Analysis Settings
+analysis:
+  min_suitability_score: 0.5  # Minimum score (0-1) to include in recommendations
+  top_n_locations: 20  # Number of top locations to recommend
+  use_most_recent_imagery: true  # Use only most recent satellite data
+  temporal_analysis: false  # Set to true for multi-temporal analysis
+  
+# Processing Settings
+processing:
+  use_gpu: true  # Leverage NVIDIA GPU if available
+  num_workers: 8  # Parallel processing workers
+  chunk_size: 1000  # For processing large rasters
+  cache_intermediate: true  # Cache processed data

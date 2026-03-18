@@ -1,0 +1,105 @@
+{
+  "category": "Mandarin",
+  "zones": [
+    {
+      "rank": 1,
+      "score_mean": 0.7782,
+      "score_max": 0.796,
+      "area_hectares": 0.27,
+      "center": {
+        "lat": 28.800067,
+        "lon": 81.468341
+      }
+    },
+    {
+      "rank": 2,
+      "score_mean": 0.7726,
+      "score_max": 0.8021,
+      "area_hectares": 2.61,
+      "center": {
+        "lat": 28.802312,
+        "lon": 81.465149
+      }
+    },
+    {
+      "rank": 3,
+      "score_mean": 0.7691,
+      "score_max": 0.7982,
+      "area_hectares": 0.36,
+      "center": {
+        "lat": 28.773864,
+        "lon": 81.470726
+      }
+    },
+    {
+      "rank": 4,
+      "score_mean": 0.766,
+      "score_max": 0.7815,
+      "area_hectares": 0.27,
+      "center": {
+        "lat": 28.778123,
+        "lon": 81.477786
+      }
+    },
+    {
+      "rank": 5,
+      "score_mean": 0.7657,
+      "score_max": 0.8005,
+      "area_hectares": 0.9,
+      "center": {
+        "lat": 28.757891,
+        "lon": 81.49924
+      }
+    },
+    {
+      "rank": 6,
+      "score_mean": 0.7642,
+      "score_max": 0.7672,
+      "area_hectares": 0.27,
+      "center": {
+        "lat": 28.808308,
+        "lon": 81.483156
+      }
+    },
+    {
+      "rank": 7,
+      "score_mean": 0.7627,
+      "score_max": 0.7897,
+      "area_hectares": 0.27,
+      "center": {
+        "lat": 28.770993,
+        "lon": 81.505286
+      }
+    },
+    {
+      "rank": 8,
+      "score_mean": 0.7614,
+      "score_max": 0.8057,
+      "area_hectares": 0.99,
+      "center": {
+        "lat": 28.800177,
+        "lon": 81.467626
+      }
+    },
+    {
+      "rank": 9,
+      "score_mean": 0.7612,
+      "score_max": 0.8006,
+      "area_hectares": 2.16,
+      "center": {
+        "lat": 28.787972,
+        "lon": 81.493226
+      }
+    },
+    {
+      "rank": 10,
+      "score_mean": 0.7583,
+      "score_max": 0.7807,
+      "area_hectares": 0.9,
+      "center": {
+        "lat": 28.768086,
+        "lon": 81.486434
+      }
+    }
+  ]
+}

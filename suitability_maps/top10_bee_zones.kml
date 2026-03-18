@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Top 10 Bee Zones</name>
+    <description>Best locations for bee farming based on ecological suitability analysis</description>
+    
+    <Style id="highZone">
+        <PolyStyle>
+            <color>7700ff00</color>
+            <outline>1</outline>
+        </PolyStyle>
+        <LineStyle>
+            <color>ff00ff00</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+
+    <Placemark>
+        <name>#1 - Score: 0.598</name>
+        <description>
+Rank: 1
+Bee Score: 0.598
+Max Score: 0.638
+Area: 7.9 hectares
+Center: 28.80113°N, 81.49407°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49260070125123,28.799696961330916,0 81.49204514569568,28.80164140577536,0 81.49260070125123,28.80191918355314,0 81.49371181236235,28.802474739108693,0 81.49398959014013,28.802474739108693,0 81.49621181236235,28.802196961330914,0 81.49621181236235,28.80164140577536,0 81.49537847902901,28.80025251688647,0 81.4931562568068,28.799696961330916,0 81.49260070125123,28.799696961330916,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#2 - Score: 0.591</name>
+        <description>
+Rank: 2
+Bee Score: 0.591
+Max Score: 0.611
+Area: 0.5 hectares
+Center: 28.79881°N, 81.48338°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.48343403458458,28.798585850219805,0 81.4831562568068,28.79886362799758,0 81.4831562568068,28.79914140577536,0 81.48343403458458,28.79886362799758,0 81.48371181236234,28.798585850219805,0 81.48343403458458,28.798585850219805,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#3 - Score: 0.589</name>
+        <description>
+Rank: 3
+Bee Score: 0.589
+Max Score: 0.606
+Area: 0.4 hectares
+Center: 28.76859°N, 81.51885°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.51871181236235,28.768308072442025,0 81.51871181236235,28.768585850219804,0 81.51898959014012,28.768863627997582,0 81.51898959014012,28.768585850219804,0 81.51871181236235,28.768308072442025,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#4 - Score: 0.585</name>
+        <description>
+Rank: 4
+Bee Score: 0.585
+Max Score: 0.652
+Area: 7.1 hectares
+Center: 28.79995°N, 81.46674°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.46621181236235,28.798308072442026,0 81.46537847902901,28.798585850219805,0 81.46537847902901,28.79914140577536,0 81.4656562568068,28.79997473910869,0 81.46676736791791,28.80164140577536,0 81.46704514569568,28.80164140577536,0 81.46760070125124,28.80136362799758,0 81.46843403458458,28.80025251688647,0 81.46648959014013,28.798308072442026,0 81.46621181236235,28.798308072442026,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#5 - Score: 0.582</name>
+        <description>
+Rank: 5
+Bee Score: 0.582
+Max Score: 0.618
+Area: 6.7 hectares
+Center: 28.76711°N, 81.50056°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.50037847902902,28.765808072442027,0 81.49954514569568,28.76636362799758,0 81.49898959014013,28.76691918355314,0 81.49898959014013,28.767474739108692,0 81.49926736791791,28.76775251688647,0 81.50010070125124,28.76803029466425,0 81.50204514569569,28.76803029466425,0 81.50204514569569,28.76691918355314,0 81.5017673679179,28.76664140577536,0 81.50093403458457,28.766085850219802,0 81.50037847902902,28.765808072442027,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#6 - Score: 0.582</name>
+        <description>
+Rank: 6
+Bee Score: 0.582
+Max Score: 0.675
+Area: 26.3 hectares
+Center: 28.76264°N, 81.49373°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49398959014013,28.75914140577536,0 81.4917673679179,28.759696961330913,0 81.49121181236235,28.759974739108692,0 81.4906562568068,28.762474739108693,0 81.4906562568068,28.76414140577536,0 81.49232292347347,28.764696961330916,0 81.49676736791791,28.766085850219802,0 81.49732292347346,28.76497473910869,0 81.49732292347346,28.76414140577536,0 81.4956562568068,28.75941918355314,0 81.49398959014013,28.75914140577536,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#7 - Score: 0.581</name>
+        <description>
+Rank: 7
+Bee Score: 0.581
+Max Score: 0.677
+Area: 28.4 hectares
+Center: 28.81113°N, 81.48761°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.48871181236235,28.808585850219803,0 81.48037847902901,28.809696961330914,0 81.48010070125125,28.809974739108693,0 81.48037847902901,28.810530294664247,0 81.48148959014013,28.812474739108694,0 81.49371181236235,28.812474739108694,0 81.49398959014013,28.811919183553137,0 81.49371181236235,28.811363627997583,0 81.49343403458457,28.811085850219804,0 81.49260070125123,28.810530294664247,0 81.48954514569569,28.80886362799758,0 81.48898959014012,28.808585850219803,0 81.48871181236235,28.808585850219803,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#8 - Score: 0.581</name>
+        <description>
+Rank: 8
+Bee Score: 0.581
+Max Score: 0.620
+Area: 3.6 hectares
+Center: 28.76897°N, 81.47284°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.47232292347346,28.768308072442025,0 81.4717673679179,28.768863627997582,0 81.4717673679179,28.769419183553136,0 81.47232292347346,28.769696961330915,0 81.47343403458457,28.769696961330915,0 81.47398959014014,28.769419183553136,0 81.47371181236235,28.768308072442025,0 81.47232292347346,28.768308072442025,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#9 - Score: 0.580</name>
+        <description>
+Rank: 9
+Bee Score: 0.580
+Max Score: 0.611
+Area: 0.5 hectares
+Center: 28.78965°N, 81.49154°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49148959014013,28.78914140577536,0 81.49148959014013,28.790252516886472,0 81.4917673679179,28.789419183553136,0 81.49148959014013,28.78914140577536,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>#10 - Score: 0.579</name>
+        <description>
+Rank: 10
+Bee Score: 0.579
+Max Score: 0.592
+Area: 0.3 hectares
+Center: 28.78859°N, 81.49121°E
+        </description>
+        <styleUrl>#highZone</styleUrl>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>81.49121181236235,28.788308072442025,0 81.49121181236235,28.788308072442025,0 81.49121181236235,28.788863627997582,0 81.49121181236235,28.788863627997582,0 81.49121181236235,28.788308072442025,0</coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+
+</Document>
+</kml>

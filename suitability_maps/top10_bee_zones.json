@@ -1,0 +1,105 @@
+{
+  "category": "Bee",
+  "zones": [
+    {
+      "rank": 1,
+      "score_mean": 0.5976,
+      "score_max": 0.6382,
+      "area_hectares": 7.92,
+      "center": {
+        "lat": 28.801127,
+        "lon": 81.494069
+      }
+    },
+    {
+      "rank": 2,
+      "score_mean": 0.5906,
+      "score_max": 0.6115,
+      "area_hectares": 0.45,
+      "center": {
+        "lat": 28.798808,
+        "lon": 81.483378
+      }
+    },
+    {
+      "rank": 3,
+      "score_mean": 0.5886,
+      "score_max": 0.6057,
+      "area_hectares": 0.36,
+      "center": {
+        "lat": 28.768586,
+        "lon": 81.518851
+      }
+    },
+    {
+      "rank": 4,
+      "score_mean": 0.5851,
+      "score_max": 0.6521,
+      "area_hectares": 7.11,
+      "center": {
+        "lat": 28.799954,
+        "lon": 81.466743
+      }
+    },
+    {
+      "rank": 5,
+      "score_mean": 0.5817,
+      "score_max": 0.6184,
+      "area_hectares": 6.66,
+      "center": {
+        "lat": 28.767107,
+        "lon": 81.500562
+      }
+    },
+    {
+      "rank": 6,
+      "score_mean": 0.5816,
+      "score_max": 0.6753,
+      "area_hectares": 26.28,
+      "center": {
+        "lat": 28.762644,
+        "lon": 81.49373
+      }
+    },
+    {
+      "rank": 7,
+      "score_mean": 0.5806,
+      "score_max": 0.6772,
+      "area_hectares": 28.44,
+      "center": {
+        "lat": 28.811125,
+        "lon": 81.487613
+      }
+    },
+    {
+      "rank": 8,
+      "score_mean": 0.5806,
+      "score_max": 0.6197,
+      "area_hectares": 3.6,
+      "center": {
+        "lat": 28.768975,
+        "lon": 81.472844
+      }
+    },
+    {
+      "rank": 9,
+      "score_mean": 0.5804,
+      "score_max": 0.6105,
+      "area_hectares": 0.54,
+      "center": {
+        "lat": 28.789651,
+        "lon": 81.491536
+      }
+    },
+    {
+      "rank": 10,
+      "score_mean": 0.5792,
+      "score_max": 0.5917,
+      "area_hectares": 0.27,
+      "center": {
+        "lat": 28.788586,
+        "lon": 81.491212
+      }
+    }
+  ]
+}
