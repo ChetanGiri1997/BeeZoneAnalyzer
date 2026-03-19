@@ -346,7 +346,7 @@ All KML files can be opened directly in Google Earth Pro or QGIS.
 {
   "farm_name": "Bee Farm",
   "farm_center": { "lat": 28.776578, "lon": 81.480797 },
-  "farm_area_hectares": 12.4,
+  "farm_area_hectares": 4.07,
   "bee_suitability": {
     "mean_score": 0.71,
     "classification": "High",
